@@ -1,11 +1,11 @@
 const help = (prefix) => {
 	return `
-「 *𝑭𝒊𝒍𝒊𝒑𝒆🐊ᴼᴿᴵᴳᴵᴺᴬᴸ* 」
+「 𝑫͢𝜟𝑫͢𝑫𝒀 𝜝𝛳͢𝑇 🤬」
 
 ◪ *informações*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Criador : Filipe
-  ❏ Contato: wa.me/18312744971
+  ❏ Criador : Daddy
+  ❏ Contato: wa.me/552799013169
 
 ◪ *SOBRE*
   │
@@ -147,6 +147,11 @@ const help = (prefix) => {
   ├─ ❏ ${prefix}timer
   ├─ ❏ ${prefix}fml
   └─ ❏ ${prefix}fml2
+
+ ║▌│█║▌│ █║▌│█│║▌║
+ ║▌│█║▌│ █║▌│█│║▌║
+
+ Copyright © ঔৣ͜͡𝘿𝙖͢𝙙𝙙͢𝙮𝙠𝙠͢𝙠 愛 2021
 `
 }
 
